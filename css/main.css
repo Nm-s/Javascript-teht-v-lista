@@ -1,0 +1,6 @@
+/* Laatikon muuttaminen */
+input[type=text], select {
+    width: 25%;
+    padding: 3px 5px;
+    border: 1px solid #ccc;
+}
